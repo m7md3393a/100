@@ -1,0 +1,25 @@
+{
+  "main": "oyuncraft.js",
+  "scripts": {
+    "start": "node oyuncraft.js"
+  },
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "chalk": "^3.0.0",
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "parse-ms": "^2.0.0",
+    "jimp": "^0.14.0",
+    "quick.db": "^7.1.1",
+    "request": "^2.88.2",
+    "express": "^4.17.1",
+    "node-superfetch": "^0.1.10"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "MIT"
+}
